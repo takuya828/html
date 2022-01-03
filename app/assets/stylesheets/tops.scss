@@ -15,6 +15,13 @@
 }
 
 .nav-list {
-  text-align: right;
+  display: flex;
+  list-style-type: none;
+  text-align: 
 }
 
+.nav-text {
+  color: #FAFAFA;
+  font-size: 16px;
+  margin: 0 30px;
+}
