@@ -1,5 +1,20 @@
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .head {
   background-color: #EC715F;
   height: 70px;
 }
+
+.nav {
+  width: 1024px;
+}
+
+.nav-list {
+  text-align: right;
+}
+
