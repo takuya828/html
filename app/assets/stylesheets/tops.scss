@@ -75,7 +75,9 @@ header {
   font-size: 32px;
   color: #000000;
   padding-bottom: 8px;
+  border-bottom: 3px solid #EC715F;
 }
+
 .title::after {
   content: "";
    display: block;
