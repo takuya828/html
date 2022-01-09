@@ -75,16 +75,15 @@ header {
   font-size: 32px;
   color: #000000;
   padding-bottom: 8px;
-  border-bottom: 3px solid #EC715F;
 }
 
 .title::after {
   content: "";
    display: block;
-   width: 80px;
+   width: 70px;
    height: 3px;
    background-color: #EC715F;
-   position: absolute;
+   margin: 8px auto 0px auto;
    bottom: 0;
    left: 10px;
 }
@@ -93,7 +92,9 @@ header {
   text-align: center;
   font-size: 16px;
   color: #000000;
+  margin: 30px auto;
 }
+
 
 
 
