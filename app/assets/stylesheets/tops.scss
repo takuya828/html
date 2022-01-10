@@ -115,8 +115,36 @@ header {
 }
 
 .feature {
-  width: 920px;
+  width: 980px;
   margin: 0 auto;
+}
+
+.feature-production {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 90px;
+}
+
+.feature-title {
+  font-size: 20px;
+  color: #000000;
+  margin: 10px 0px;
+}
+
+.production-area {
+  width: 320px;
+  height: auto;
+}
+
+.production-area2 {
+  width: 320px;
+  height: auto;
+  margin: 0px 10px;
+}
+
+.feature-text {
+  font-size: 16px;
+  color: #000000;
 }
 
 
