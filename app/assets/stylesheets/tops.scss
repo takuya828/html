@@ -64,6 +64,11 @@ header {
   padding-top: 10px;
 }
 
+.port {
+  background-color: #ECEFF1;
+}
+
+
 .portfolio {
   width: 980px;
   margin: 0 auto;
@@ -148,10 +153,13 @@ header {
   color: #000000;
 }
 
+.pro {
+  background-color: #ECEFF1;
+}
+
 .profile {
   width: 1024px;
   margin: 0 auto;
-  background-color: #ECEFF1;
 }
 
 .profile-area {
@@ -164,6 +172,7 @@ header {
 }
 
 .my-icon {
+  border-radius: 50%;
   width: 250px;
   height: 250px;
   margin: 0 100px;
@@ -185,6 +194,13 @@ header {
   margin-top: 5px;
   margin-bottom: 20px;
 }
+
+.profile-introduction-text2 {
+  font-size: 16px;
+  color: #000000;
+  margin-bottom: 30px;
+}
+
 
 
 
