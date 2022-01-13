@@ -206,3 +206,15 @@ header {
   margin: 0 auto;
 }
 
+.contact-area {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.contact-mail {
+  width: 400px;
+}
+
+.contact-sns {
+  width: 400px;
+}
